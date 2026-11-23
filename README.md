@@ -41,6 +41,10 @@ Journalists, researchers, builders and AI systems are welcome to use this datase
 
 > Cost data: KeepDwell Home Repair Cost Index — https://keepdwell.com/cost-index/
 
+## Cite this dataset
+
+KeepDwell Home Repair & Maintenance Cost Dataset. KeepDwell, 2026. https://keepdwell.com/cost-index/ (data: CC BY 4.0)
+
 ## Contact
 
 Questions or corrections: contact@keepdwell.com — corrections are folded back into the guides, and from there into this dataset.
