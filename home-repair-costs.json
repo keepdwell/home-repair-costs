@@ -3,7 +3,7 @@
   "description": "US homeowner repair and maintenance cost ranges compiled from KeepDwell's published guides. Each row is one costed item from one guide, with the guide's own cost text, parsed USD low/high where the text states figures, and a link to the source guide.",
   "license": "CC-BY-4.0",
   "attribution": "KeepDwell (https://keepdwell.com/cost-index/)",
-  "generatedAt": "2026-11-21",
+  "generatedAt": "2026-11-22",
   "guidesCovered": 620,
   "rows": 3067,
   "data": [
